@@ -12,8 +12,8 @@
     "fmt": "prettier --write ."
   },
   "dependencies": {
-    "@astrojs/svelte": "^4.0.2",
-    "astro": "^3.1.4",
+    "@astrojs/svelte": "^5.7.2",
+    "astro": "^4.16.1",
     "remark-gfm": "^4.0.0",
     "remark-html": "^16.0.1",
     "remark-parse": "^11.0.0",
