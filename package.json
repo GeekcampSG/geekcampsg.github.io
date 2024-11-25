@@ -17,7 +17,7 @@
     "remark-gfm": "^4.0.0",
     "remark-html": "^16.0.1",
     "remark-parse": "^11.0.0",
-    "svelte": "^3.59.2",
+    "svelte": "^4.2.19",
     "svelte-knobby": "^0.3.4",
     "unified": "^11.0.3",
     "vite-imagetools": "^4.0.11",
